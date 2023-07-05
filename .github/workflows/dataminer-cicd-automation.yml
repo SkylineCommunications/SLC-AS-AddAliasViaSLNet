@@ -48,10 +48,6 @@ jobs:
           # The API-key generated in the DCP Admin app (https://admin.dataminer.services/) as authentication for a certain DataMiner System. E.g. g597e77412e34297b827c2570a8fa2bc
           api-key: ${{ secrets.DATAMINER_DEPLOY_KEY }}
           # Id of the uploaded artifact
-          #artifact-id: ${{ needs.CI1.outputs.artifact-id }}
-          solution-path: ./AddAliasViaSLNet.sln
-          artifact-name: ${{ github.repository }} ${{ github.ref_name }}
-          version: ${{ github.ref_name }}
-          
+          artifact-id: ${{ needs.CI1.outputs.artifact-id }}
           
         
