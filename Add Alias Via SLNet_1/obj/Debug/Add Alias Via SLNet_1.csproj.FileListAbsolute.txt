@@ -1,0 +1,16 @@
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\obj\Debug\Add Alias Via SLNet_1.csproj.AssemblyReference.cache
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\obj\Debug\Add Alias Via SLNet_1.csproj.CoreCompileInputs.cache
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\Add Alias Via SLNet_1.xml
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\Add Alias Via SLNet_1.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\Add Alias Via SLNet_1.pdb
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\Newtonsoft.Json.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\protobuf-net.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\SLAnalyticsTypes.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\SLLoggerUtil.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\SLManagedAutomation.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\SLNetTypes.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\bin\Debug\SLProtoBufLibrary.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\obj\Debug\Add Alias Via SLNet_1.csproj.CopyComplete
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\obj\Debug\Add Alias Via SLNet_1.dll
+C:\GIT\Automation\AddAliasViaSLNet\Add Alias Via SLNet_1\obj\Debug\Add Alias Via SLNet_1.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DMSScript options="272" xmlns="http://www.skyline.be/automation">
+	<Name>Add Alias Via SLNet</Name>
+	<Description></Description>
+	<Type>Automation</Type>
+	<Author>SKYLINE2\JAY</Author>
+	<CheckSets>FALSE</CheckSets>
+	<Folder>30 Days Validation Project</Folder>
+
+	<Protocols>
+	</Protocols>
+
+	<Memory>
+	</Memory>
+
+	<Parameters>
+		<ScriptParameter id="1" values="" type="string">
+			<Description>Alias</Description>
+		</ScriptParameter>
+		<ScriptParameter id="2" values="" type="string">
+			<Description>CustomDatabaseNameInProtocol</Description>
+		</ScriptParameter>
+		<ScriptParameter id="3" values="" type="string">
+			<Description>OffloadedTableNameInProtocol</Description>
+		</ScriptParameter>
+	</Parameters>
+
+	<Script>
+	<Exe id="101" type="csharp">
+			<Value><![CDATA[[Project:Add Alias Via SLNet_1]]]></Value>
+			<!--<Param type="debug">true</Param>-->
+			<Message></Message>
+		</Exe>
+	</Script>
+</DMSScript>
