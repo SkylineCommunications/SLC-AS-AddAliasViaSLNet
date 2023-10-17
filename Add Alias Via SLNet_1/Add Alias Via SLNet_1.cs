@@ -49,13 +49,13 @@ DATE		VERSION		AUTHOR			COMMENTS
 ****************************************************************************
 */
 
-using System.Collections.Generic;
-using Skyline.DataMiner.Automation;
-using Skyline.DataMiner.Net.SLSearch.Messages.Alias;
-using Skyline.DataMiner.Net.SLSearch.Misc;
-
 namespace Add_Alias_Via_SLNet_1
 {
+    using System.Collections.Generic;
+    using Skyline.DataMiner.Automation;
+    using Skyline.DataMiner.Net.SLSearch.Messages.Alias;
+    using Skyline.DataMiner.Net.SLSearch.Misc;
+
     /// <summary>
     /// Represents a DataMiner Automation script.
     /// </summary>

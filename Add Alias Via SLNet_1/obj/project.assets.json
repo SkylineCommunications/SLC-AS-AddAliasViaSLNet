@@ -808,11 +808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\Automation\\AddAliasViaSLNet\\Add Alias Via SLNet_1\\Add Alias Via SLNet_1.csproj",
+      "projectUniqueName": "C:\\GIT\\Automation\\Add Alias Via SLNet\\Add Alias Via SLNet_1\\Add Alias Via SLNet_1.csproj",
       "projectName": "Add Alias Via SLNet_1",
-      "projectPath": "C:\\GIT\\Automation\\AddAliasViaSLNet\\Add Alias Via SLNet_1\\Add Alias Via SLNet_1.csproj",
+      "projectPath": "C:\\GIT\\Automation\\Add Alias Via SLNet\\Add Alias Via SLNet_1\\Add Alias Via SLNet_1.csproj",
       "packagesPath": "C:\\Users\\JoachimAY\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\Automation\\AddAliasViaSLNet\\Add Alias Via SLNet_1\\obj\\",
+      "outputPath": "C:\\GIT\\Automation\\Add Alias Via SLNet\\Add Alias Via SLNet_1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
