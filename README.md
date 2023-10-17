@@ -13,12 +13,13 @@ Steps on how this Automation script can be useful.
 
 3. Install this automation script on your Dataminer Agent. Execute the Automation Script, where the first parameter "Alias" is a text-value you can choose. The "CustomDatabaseNameInProtocol" and "OffloadedTableNameInProtocol" depend on what you implemented in your protocol.
 
-   ![ExecuteAlias](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/ceae1370-b9b1-4d1a-bb2f-a1bbd6312ba0)
+   ![ExecuteAlias](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/5a077cb1-dab1-425e-b62d-6f663de64395)
 
 4. Create a dashboard and load a "Get Parameter By Alias"-query. Select the "Alias"-text-value you chose in step 2. You should get the records displayed that were offloaded.
 
-   ![ExampleGetParameterTableByAlias](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/9f98ba44-d532-4e0a-aeb3-9746d76f4e5d)
+   ![ExampleGetParameterTableByAlias](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/4eaf04c1-0932-40eb-8d10-7033d5c2a236)
 
    Note that the "partitionsToKeep" attribute also has an influence. In the example below, it is mentioned that the data is only kept 3 hours, so only the records of the last 3 hours will be shown.
 
-   ![TimeToLive](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/f09fc701-7e77-43fc-b54d-eeacdef19a2a)
+   ![TimeToLive](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/b82c05ff-cc5e-40ba-b7e2-6ce28f92121d)
+
