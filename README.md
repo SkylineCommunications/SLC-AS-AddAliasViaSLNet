@@ -3,7 +3,8 @@ An automation Script that helps you to add an alias that can be used to query of
 
 Steps on how this Automation script can be useful. 
 
-1. Create a protocol with a table that is offloading data via "Direct Connection", of which the implementation is explained on [a specific page on the public Dataminer Docs]([https://pages.github.com/](https://docs.dataminer.services/develop/devguide/Connector/AdvancedLoggerTablesDefiningDirectConnectionTable.html)). An example is shown below, where a table is offloading a type of Error-records.  
+1. Create a protocol with a table that is offloading data via "Direct Connection", of which the implementation is explained on [a specific page on the public Dataminer Docs]([https://pages.github.com/](https://docs.dataminer.services/develop/devguide/Connector/AdvancedLoggerTablesDefiningDirectConnectionTable.html)).
+   An example is shown below, where a table is offloading a type of Error-records.  
 
 
 
