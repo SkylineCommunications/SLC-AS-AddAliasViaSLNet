@@ -15,18 +15,10 @@ Steps on how this Automation script can be useful.
 
    ![ExecuteAlias](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/ceae1370-b9b1-4d1a-bb2f-a1bbd6312ba0)
 
-4. Create a dashboard and load a "Get Parameter By Alias"-query. Select the "Alias"-text-value you chose in step 2. You should get the records displayed that were offloaded. 
+3. Create a dashboard and load a "Get Parameter By Alias"-query. Select the "Alias"-text-value you chose in step 2. You should get the records displayed that were offloaded.
 
-  ![ExampleGetParameterTableByAlias](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/9f98ba44-d532-4e0a-aeb3-9746d76f4e5d)
+   ![ExampleGetParameterTableByAlias](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/9f98ba44-d532-4e0a-aeb3-9746d76f4e5d)
 
-  Note that the "partitionsToKeep" attribute also has an influence. In the example below, it is mentioned that the data is only kept 3 hours, so only the records of the last 3 hours will be shown.
+   Note that the "partitionsToKeep" attribute also has an influence. In the example below, it is mentioned that the data is only kept 3 hours, so only the records of the last 3 hours will be shown.
 
-  ![TimeToLive](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/f09fc701-7e77-43fc-b54d-eeacdef19a2a)
-
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+   ![TimeToLive](https://github.com/SkylineCommunications/SLC-AS-AddAliasViaSLNet/assets/121804974/f09fc701-7e77-43fc-b54d-eeacdef19a2a)
